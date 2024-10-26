@@ -87,7 +87,7 @@
             <div class="card-content">
                 <h2 class="card-title">Beautiful Landscape</h2>
                 <p class="card-description">Explore the beauty of nature with this breathtaking landscape view. Perfect for adventure and relaxation!</p>
-                <a href="#" class="card-button">Learn More!</a>
+                <a href="#" class="card-button">Learn More</a>
             </div>
         </div>
     </div>
