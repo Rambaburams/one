@@ -7,7 +7,7 @@
     <style>
         /* Reset */
         * {
-            margin: 0;
+            margin: 10;
             padding: 0;
             box-sizing: border-box;
             font-family: Arial, sans-serif;
